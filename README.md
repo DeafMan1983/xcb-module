@@ -5,7 +5,7 @@ That is new extension for xcb and xcb-extensions
 Clone this
 
 ```shell
-git clone https://gitlab.com/deafman1983/xcb-module.git
+git clone https://github.com/deafman1983/xcb-module.git
 cd xcb-module
 mdkir build-gnu && cd build-gnu
 cmake .. -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_INSTALL_LIBDIR=/usr/lib/x86_64-linux-gnu
